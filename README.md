@@ -1,6 +1,6 @@
 # LetsUpgrade--AI-ML
 #day4
-Raghuram Tpgit: x1 = (5+3j)
+x1 = (5+3j)
 x2 = (2+1j)
 
 print(f'Additoin of {x1} and {x2} : ', (x1 + x2))
